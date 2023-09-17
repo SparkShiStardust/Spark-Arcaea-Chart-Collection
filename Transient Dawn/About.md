@@ -8,8 +8,47 @@
 
 黎明已至，在躁动的鼓点中，世界剧烈变动着。
 
-黎明昙花一现，随后到来的是热烈得过分的开场... ...
+黎明昙花一现，随后将至未至的是热烈得过分的开场... ...
+
+## 曲包概述
+
+本曲包计划带来16首歌曲。
+
+曲目列表如下（按照推荐游玩顺序）：
+
+Origin
+
+德川杯面禁止令
+
+The 7 Seas
+
+BroGamer
+
+千本樱
+
+Star Gate
+
+Skylightz <待添加>
+
+Carnivores <待添加>
+
+In Verbatim <待添加>
+
+Shinonome
+
+With You
+
+恋歌 <待添加>
+
+Spasmodic
+
+道别在今日
+
+Restriction
+
+We Will Meet Again
 
 ## 食用说明
 
-下载文件夹，放入容器预览或使用（笑）
+下载文件夹，用Arcade预览
+<或者加点佐料放入相关容器食用（笑）>
