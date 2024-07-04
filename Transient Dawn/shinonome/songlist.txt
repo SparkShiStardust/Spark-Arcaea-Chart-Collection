@@ -1,0 +1,38 @@
+    {
+      "id": "shinonome",
+      "title_localized": {
+        "en": "Shinonome"
+      },
+      "artist": "DJ Noriken",
+      "bpm": "175",
+      "bpm_base": 175.0,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 79237,
+      "audioPreviewEnd": 90500,
+      "side": 0,
+      "bg": "wacca_light",
+      "version": "Transient Dawn",
+      "date": 6,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Shining Spark",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },

@@ -1,0 +1,38 @@
+    {
+      "id": "flymetothemoon",
+      "title_localized": {
+        "en": "恋のうた (feat. 由崎司)"
+      },
+      "artist": "Yunomi",
+      "bpm": "160",
+      "bpm_base": 160,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 108429,
+      "audioPreviewEnd": 120429,
+      "side": 0,
+      "bg": "omatsuri_light",
+      "version": "Transient Dawn",
+      "date": 8,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "火星",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },

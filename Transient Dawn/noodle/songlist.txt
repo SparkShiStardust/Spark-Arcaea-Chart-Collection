@@ -1,0 +1,39 @@
+
+    {
+      "id": "noodle",
+      "title_localized": {
+        "en": "徳川カップヌードル禁止令"
+      },
+      "artist": "Mitchie M",
+      "bpm": "178",
+      "bpm_base": 178.0,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 48570,
+      "audioPreviewEnd": 59000,
+      "side": 0,
+      "bg": "hime_light",
+      "version": "Transient Dawn",
+      "date": 1,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "火星カップヌードル禁止令",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    },

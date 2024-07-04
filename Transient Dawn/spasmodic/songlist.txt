@@ -1,0 +1,45 @@
+
+    {
+      "id": "spasmodic",
+      "title_localized": {
+        "en": "Spasmodic"
+      },
+      "artist": "姜米條",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 10000,
+      "audioPreviewEnd": 20000,
+      "side": 0,
+      "bg": "spaso",
+      "version": "Single",
+      "date": 1607838000,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "火星SONIC",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    },

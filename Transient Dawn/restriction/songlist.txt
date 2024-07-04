@@ -1,0 +1,38 @@
+     {
+      "id": "restriction",
+      "title_localized": {
+        "en": "Restriction"
+      },
+      "artist": "Team Grimoire",
+      "bpm": "175",
+      "bpm_base": 175.0,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 16400,
+      "audioPreviewEnd": 20000,
+      "side": 1,
+      "bg": "base_conflict",
+      "version": "Transient Dawn",
+      "date": 10,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "火星",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },
