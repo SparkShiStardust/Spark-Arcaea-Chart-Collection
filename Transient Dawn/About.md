@@ -12,7 +12,7 @@
 
 ## 曲包概述
 
-本曲包计划带来16首歌曲。
+本曲包计划带来14首歌曲。
 
 曲目列表如下（按照推荐游玩顺序）：
 
@@ -28,23 +28,19 @@ BroGamer
 
 Star Gate
 
-Skylightz <待添加>
-
-Carnivores <待添加>
-
-In Verbatim <待添加>
+Skylightz 
 
 Shinonome
 
 With You
 
-恋歌 <待添加>
+恋歌
 
 Spasmodic
 
 道别在今日
 
-Restriction <待添加>
+Restriction 
 
 We Will Meet Again
 
