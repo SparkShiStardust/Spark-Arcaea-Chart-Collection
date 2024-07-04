@@ -50,4 +50,4 @@ We Will Meet Again
 
 <或者加点佐料放入相关容器食用（笑）>
 
-本曲包所有曲目的songlist待添加。
+本曲包所有曲目的songlist已添加。
