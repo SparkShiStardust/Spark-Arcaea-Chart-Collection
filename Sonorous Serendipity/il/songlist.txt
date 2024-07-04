@@ -6,7 +6,7 @@
       "artist": "i̶c̶e̶",
       "bpm": "160",
       "bpm_base": 160.0,
-      "set": "spark",
+      "set": "base",
       "purchase": "",
       "audioPreview": 120000,
       "audioPreviewEnd": 140000,
