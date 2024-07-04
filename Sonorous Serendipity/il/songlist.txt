@@ -1,0 +1,38 @@
+    {
+      "id": "il",
+      "title_localized": {
+        "en": "iL"
+      },
+      "artist": "i̶c̶e̶",
+      "bpm": "160",
+      "bpm_base": 160.0,
+      "set": "spark",
+      "purchase": "",
+      "audioPreview": 120000,
+      "audioPreviewEnd": 140000,
+      "side": 1,
+      "bg": "cytus_boss",
+      "version": "Sonorous Serendipity",
+      "date": 26,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Spark affected by OPCI_4202_VII",
+          "jacketDesigner": "NN",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },

@@ -1,0 +1,48 @@
+    {
+      "id": "chr2021",
+      "title_localized": {
+        "en": "Chronostasis"
+      },
+      "artist": "黒皇帝",
+      "bpm": "196",
+      "bpm_base": 196,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 89005,
+      "audioPreviewEnd": 114050,
+      "side": 1,
+      "bg": "byd_conflict",
+      "date": 1679285178,
+      "version": "Sonorous Serendipity",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 3,
+          "title_localized": {
+            "en": "Chronostasis (2021 Remaster)"
+          },
+          "chartDesigner": "Spark filled with Stardust\nTheStarDust.\n至尊火星之力",
+          "jacketDesigner": "",
+          "jacketOverride": true,
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    },

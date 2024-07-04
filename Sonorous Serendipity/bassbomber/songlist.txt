@@ -1,0 +1,38 @@
+    {
+      "id": "bassbomber",
+      "title_localized": {
+        "en": "Bass Bomber"
+      },
+      "artist": "sta",
+      "bpm": "150",
+      "bpm_base": 150.0,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 38300,
+      "audioPreviewEnd": 64000,
+      "side": 1,
+      "bg": "prelude_conflict",
+      "version": "Sonorous Serendipity",
+      "date": 0,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "火星",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    },

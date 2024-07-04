@@ -1,0 +1,39 @@
+
+    {
+      "id": "fmttm2",
+      "title_localized": {
+        "en": "刹那の誓い (feat. 由崎司) "
+      },
+      "artist": "Neko Hacker feat. 鬼頭明里",
+      "bpm": "162",
+      "bpm_base": 162.0,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 121010,
+      "audioPreviewEnd": 146800,
+      "side": 1,
+      "bg": "eden_append_conflict",
+      "version": "Sonorous Serendipity",
+      "date": 0,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "刹那の火花",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },
